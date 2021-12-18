@@ -1,4 +1,4 @@
-# Advent of Coode Visuals
+# Advent of Code Visuals
 
 A place to showcase programs that generate imagery associated with problems from Advent of Code 2021.
 
